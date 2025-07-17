@@ -236,6 +236,115 @@
       "parent": "noi@video",
       "text": "YouTube",
       "url": "https://www.youtube.com"
+    },
+    {
+      "id": "noi:bookmarks",
+      "parent": 0,
+      "dir": true,
+      "text": "Bookmarks"
+    },
+    {
+      "id": "noi:bookmark_startme",
+      "parent": "noi:bookmarks",
+      "text": "Start.me",
+      "url": "https://start.me/bookmarks"
+    },
+    {
+      "id": "noi:bookmark_mailbrew",
+      "parent": "noi:bookmarks",
+      "text": "Mailbrew",
+      "url": "https://app.mailbrew.com/vanb/new-brew-SZBPj0ijnV3Y"
+    },
+    {
+      "id": "noi:bookmark_google",
+      "parent": "noi:bookmarks",
+      "text": "Google",
+      "url": "https://google.com"
+    },
+    {
+      "id": "noi:bookmark_gmail",
+      "parent": "noi:bookmarks",
+      "text": "Gmail",
+      "url": "https://gmail.com"
+    },
+    {
+      "id": "noi:bookmark_calendar",
+      "parent": "noi:bookmarks",
+      "text": "Google Calendar",
+      "url": "https://calendar.google.com"
+    },
+    {
+      "id": "noi:bookmark_exa",
+      "parent": "noi:bookmarks",
+      "text": "Exa",
+      "url": "https://exa.ai/search"
+    },
+    {
+      "id": "noi:bookmark_googleaimode",
+      "parent": "noi:bookmarks",
+      "text": "Google AI Mode",
+      "url": "https://google.com/aimode"
+    },
+    {
+      "id": "noi:bookmark_perplexity",
+      "parent": "noi:bookmarks",
+      "text": "Perplexity",
+      "url": "https://perplexity.com"
+    },
+    {
+      "id": "noi:bookmark_gemini",
+      "parent": "noi:bookmarks",
+      "text": "Gemini",
+      "url": "https://gemini.google.com"
+    },
+    {
+      "id": "noi:bookmark_cursor",
+      "parent": "noi:bookmarks",
+      "text": "Cursor",
+      "url": "https://cursor.com/agents"
+    },
+    {
+      "id": "noi:bookmark_manus",
+      "parent": "noi:bookmarks",
+      "text": "Manus",
+      "url": "https://manus.im/app"
+    },
+    {
+      "id": "noi:bookmark_genspark",
+      "parent": "noi:bookmarks",
+      "text": "Genspark",
+      "url": "https://www.genspark.ai/"
+    },
+    {
+      "id": "noi:bookmark_scira",
+      "parent": "noi:bookmarks",
+      "text": "Scira",
+      "url": "https://scira.ai"
+    },
+    {
+      "id": "noi:bookmark_jina",
+      "parent": "noi:bookmarks",
+      "text": "Jina",
+      "url": "https://Search.jina.ai"
+    },
+    {
+      "id": "noi:bookmark_ninja",
+      "parent": "noi:bookmarks",
+      "text": "Ninja",
+      "url": "https://myninja.ai/?tm=tt&ap=gads&aaid=adanZDHGdJ21H&gad_source=1&gad_campaignid=22337851162&gbraid=0AAAAA9zUuOx2N8poQvQIjJvFqk-Yulqb-&gclid=Cj0KCQjwjdTCBhCLARIsAEu8bpLsLyNPCIm17bAeo-1mqqR8_Slhb-TY4PlzO6OTqR87Khc9dzwZQx4aAhFQEALw_wcB"
+    },
+    {
+      "id": "noi:bookmark_exaai",
+      "parent": "noi:bookmarks",
+      "text": "Exa AI",
+      "url": "https://exa.ai"
+    },
+    {
+      "id": "noi:bookmark_minimax",
+      "parent": "noi:bookmarks",
+      "text": "Minimax",
+      "url": "https://agent.minimax.io"
     }
   ]
 }
+
